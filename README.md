@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱   I’m currently learning React;<br>👨🏻‍💻   Most of my projects are available on GitHub<br>💬   Ask me about anything tech related, I am happy to help;<br>📫   Feel free to ping me on LinkedIn<br>📝   Checkout my resume<br>📚   When free, I play Video Games and watch Movies and Web Series.
+🌱   I’m currently learning React;<br>👨🏻‍💻   Most of my projects are available on GitHub<br>💬   Ask me about anything tech related, I am happy to help;<br>📫   Feel free to ping me on LinkedIn<br>📝   Checkout my resume<br>📚  When free, I play Video Games and watch Movies and Web Series.
 
 
 ## 🌐 Socials:
