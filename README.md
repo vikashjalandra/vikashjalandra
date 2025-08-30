@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vikash Jalandra!
+# 👋 Hi there, I'm Vikash Kumawat!
 
 I'm a passionate **Full Stack Developer** and tech enthusiast constantly exploring new tools, frameworks, and systems.
 
