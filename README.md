@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Developer** and tech enthusiast constantly explori
 - 👨‍💻 Most of my work is available right here on GitHub  
 - 💬 Always open to discussing tech, projects, or solving bugs  
 - 📫 Reach out on [LinkedIn](https://linkedin.com/in/vikash-kumawat-99028a224) — I'm happy to connect!  
-- 📝 Check out my [Resume](#) *(Add your link here)*  
+- 📝 Check out my [Resume](#)  
 - 🎮 When I'm not coding, I enjoy gaming and watching movies/web series  
 
 ---
